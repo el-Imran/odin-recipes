@@ -1,2 +1,0 @@
-# odin-recipes
-This deals with learning and creating my first html project by making an odin-recipes page creating links with anchor tags that will definitely lead to other recipes pages i.e, We would probably be creating a relative link type. I'm so excited right now. Thanks to the entire community of Odin project. This html project will later on be visited to undergo styling using CSS.
